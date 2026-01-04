@@ -6,7 +6,7 @@ import {
   CheckCircle2, ChevronRight, Menu, X, Phone, Mail, 
   Star, Zap, Target, Award, ArrowRight, Play,
   Smartphone, Globe, Lock, Bell, Calendar, FileText,
-  Building, Factory, ShoppingBag, Truck, Home as HomeIcon,
+  Building, Factory, ShoppingBag, Hospital, Truck, Home as HomeIcon,
   ChevronDown, Send, Sparkles, TrendingUp, IndianRupee
 } from 'lucide-react';
 
